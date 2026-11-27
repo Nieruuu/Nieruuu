@@ -85,34 +85,6 @@ A few areas I enjoy working on:
 
 </details>
 
-## Experience
-
-<details>
-<summary><strong>💼 Experience highlights</strong></summary>
-<br />
-
-- **PT. Connect Owl · Full-Stack Web Developer** · August–November 2026  
-  Joined an initial KTLN project assignment as an intern and explored Meta API and WhatsApp Business API integrations with a Go backend for invoice and information updates.
-- **Cartenz Technology Indonesia · Full-Stack Developer** · August–November 2025, May–July 2026  
-  Worked on the Taxation Map application and helped automate deployment steps using Python and Docker.
-- **Freelance and personal projects · Full-Stack Web Developer** · 2024–present  
-  Build web applications with Laravel and React, and use GitHub Actions for CI/CD workflows.
-
-</details>
-
-## Contact
-
-I'm open to conversations about **software engineering, DevOps, projects, and collaboration**.
-
-- ✉️ [rafly23yoi@gmail.com](mailto:rafly23yoi@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/rafly-sugiarto)
-- 🧑‍💻 [GitHub](https://github.com/Nieruuu)
-
----
-
-<details>
-<summary><strong>🛠️ About this portfolio repository</strong></summary>
-<br />
 
 This portfolio site is built with React, TypeScript, Vite, React Three Fiber, Three.js, and GSAP. Run it locally with:
 
